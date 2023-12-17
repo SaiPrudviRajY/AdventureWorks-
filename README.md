@@ -7,19 +7,19 @@ This repository showcases a set of interactive Tableau dashboards developed usin
 Each dashboard targets a specific area of business intelligence:
 
 - **Customer Demographics Dashboard**
-  ![Customer Demographics Dashboard](Customer%20Demographics%20Dashboard.png)
+  ![Customer Demographics Dashboard](Screenshots/Customer Demographics Dashboard.png)
   This dashboard provides a detailed view of the customer base, segmented by marital status, gender, and income.
 
 - **Sales Performance Dashboard**
-  ![Sales Performance Dashboard](Sales%20Performance%20Dashboard.png)
+  ![Sales Performance Dashboard](Screenshots/Sales Performance Dashboard.png)
   Tracks sales achievements and profitability across various regions and timeframes.
 
 - **New Customer Acquisition Dashboard**
-  ![New Customer Acquisition Dashboard](New%20Customer%20Acquisition%20Dashboard.png)
+  ![New Customer Acquisition Dashboard](Screenshots/New Customer Acquisition Dashboard.png)
   Analyzes the growth and spread of new customer acquisitions over time, by demographic and region.
 
 - **Product Performance Dashboard**
-  ![Product Performance Dashboard](Product%20Performance%20Dashboard.png)
+  ![Product Performance Dashboard](Screenshots/Product Performance Dashboard.png)
   Offers insights into product sales volumes and profit margins, identifying top-performing categories.
 ## Tools Used
 - Tableau Desktop
