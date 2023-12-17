@@ -4,12 +4,23 @@
 This repository showcases a set of interactive Tableau dashboards developed using the AdventureWorks sample dataset. These dashboards provide insights into customer demographics, sales performance, product analysis, and new customer acquisition.
 
 ## Dashboards
-This collection includes:
-- **Customer Demographics Dashboard**: Visualizes customer data segmented by marital status, gender, and income levels.
-- **Sales Performance Dashboard**: Displays sales and profit metrics across different regions and timeframes.
-- **New Customer Acquisition Dashboard**: Tracks the growth and characteristics of new customers, including demographics and regional distribution.
-- **Product Performance Dashboard**: Analyzes sales volume and profitability of products to identify top performers.
+Each dashboard targets a specific area of business intelligence:
 
+- **Customer Demographics Dashboard**
+  ![Customer Demographics Dashboard](Customer%20Demographics%20Dashboard.png)
+  This dashboard provides a detailed view of the customer base, segmented by marital status, gender, and income.
+
+- **Sales Performance Dashboard**
+  ![Sales Performance Dashboard](Sales%20Performance%20Dashboard.png)
+  Tracks sales achievements and profitability across various regions and timeframes.
+
+- **New Customer Acquisition Dashboard**
+  ![New Customer Acquisition Dashboard](New%20Customer%20Acquisition%20Dashboard.png)
+  Analyzes the growth and spread of new customer acquisitions over time, by demographic and region.
+
+- **Product Performance Dashboard**
+  ![Product Performance Dashboard](Product%20Performance%20Dashboard.png)
+  Offers insights into product sales volumes and profit margins, identifying top-performing categories.
 ## Tools Used
 - Tableau Desktop
 
