@@ -36,6 +36,7 @@ This repository showcases a set of interactive Tableau dashboards developed usin
 
 ## Tools Used
 - Tableau Desktop
+- Excel
 
 ## How to Use
 1. Clone or download the repository including the `.twbx` Tableau workbook files and the datasets from the dataset folder.
