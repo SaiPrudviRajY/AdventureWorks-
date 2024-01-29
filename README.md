@@ -35,7 +35,7 @@ This repository showcases a set of interactive Tableau dashboards developed usin
 - **Individual Product's Sales Volume and Revenue**: A treemap highlighting the sales volume and revenue of individual products.
 
 ## Tools Used
-- Tableau Desktop
+- Tableau
 - Excel
 
 ## How to Use
