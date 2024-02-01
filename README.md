@@ -1,4 +1,4 @@
-# Business Analytics Visualization:  Customer and Sales Trends
+# Consumer and Sales Dynamics: Holistic Analysis Dashboard
 
 ## Project Overview
 This repository showcases a set of interactive Tableau dashboards developed using the AdventureWorks sample dataset. These dashboards provide insights into customer demographics, sales performance, product analysis, and new customer acquisition.
