@@ -1,4 +1,4 @@
-# AdventureWorks Business Intelligence Dashboards
+# Business Analytics Visualization: A Tableau Synthesis of Customer and Sales Data
 
 ## Project Overview
 This repository showcases a set of interactive Tableau dashboards developed using the AdventureWorks sample dataset. These dashboards provide insights into customer demographics, sales performance, product analysis, and new customer acquisition.
